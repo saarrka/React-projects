@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Women blouse",
+    "price": 15.99,
+    "imageSrc": "women-blouse.jpg",
+    "imageAlt": "Women blouse"
+  },
+  {
+    "title": "Women jumper",
+    "price": 20.49,
+    "imageSrc": "women-jumper.png",
+    "imageAlt": "Women jumper"
+  },
+  {
+    "title": "Women jacket",
+    "price": 175.39,
+    "imageSrc": "women-jacket.png",
+    "imageAlt": "Women jacket"
+  },
+  {
+      "title": "Women watch",
+      "price": 142.59,
+      "imageSrc": "women-watch.jpg",
+      "imageAlt": "Women watch"
+  },
+  {
+      "title": "Women purse",
+      "price": 59.99,
+      "imageSrc": "women-purse.jpg",
+      "imageAlt": "Women purse"
+  },
+  {
+      "title": "Women perfume",
+      "price": 75.39,
+      "imageSrc": "women-perfume.jpg",
+      "imageAlt": "Women perfume"
+  },
+  {
+    "title": "Men jeans",
+    "price": 24.89,
+    "imageSrc": "men-jeans.jpg",
+    "imageAlt": "Men jeans"
+  },
+  {
+    "title": "Men sneakers",
+    "price": 115.49,
+    "imageSrc": "men-sneakers.jpg",
+    "imageAlt": "Men sneakers"
+  },
+  {
+    "title": "Men shirt",
+    "price": 35.09,
+    "imageSrc": "men-shirt.jpg",
+    "imageAlt": "Men shirt"
+  },
+  {
+    "title": "Men watch",
+    "price": 175.39,
+    "imageSrc": "men-watch.jpg",
+    "imageAlt": "Men watch"
+  },
+  {
+    "title": "Men backpack",
+    "price": 86.79,
+    "imageSrc": "men-backpack.jpg",
+    "imageAlt": "Men backpack"
+  },
+  {
+    "title": "Men perfume",
+    "price": 75.39,
+    "imageSrc": "men-perfume.jpg",
+    "imageAlt": "Men perfume"
+  }
+]
+  
