@@ -2,7 +2,7 @@ import ProductsList from '../components/ProductsList'
 import Layout from './Layout'
 import Footer from './Footer'
 
-const HomePage = ({cart, message, onMinus, onPlus, onCancel, onCancelAll, addToCart, products}) => {
+const HomePage = ({cart, message, onMinus, onPlus, onCancel, onCancelAll, addToCart, products, onBuy}) => {
   
   return (
     <>

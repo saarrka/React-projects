@@ -77,10 +77,9 @@ function App() {
   }
 
   const onBuy = () => {
-    console.log('onBuy clicked!'); // Debug log
-    setCart([]); // Prazni korpu
-    setMessage('Your order was successful'); // Postavlja poruku
-    setTimeout(() => setMessage(''), 5000); // Briše poruku posle 5 sekundi
+    setCart([]); 
+    setMessage('Your order was successful');
+    setTimeout(() => setMessage(''), 5000); 
   };
   
 
